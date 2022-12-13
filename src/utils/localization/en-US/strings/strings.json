@@ -1,0 +1,20 @@
+{
+    "AFRICA": "Africa",
+    "AMERICAS": "Americas",
+    "ASIA": "Asia",
+    "EUROPE": "Europe",
+    "OCEANIA": "Oceania",
+    "GUESS": "Guess the flag",
+    "GUESSED": "%REPL% have guessed!",
+    "STARTING": "Starting",
+    "CORRECT_ANSWERS": "You answered correctly %REPL% times",
+    "POINTS": "You got %REPL% points",
+    "DOES_NOT_HAVE": "Does not have",
+    "OFFICIAL_NAME": "OFFICIAL NAME",
+    "CAPITAL": "CAPITAL",
+    "CONTINENT": "CONTINENT",
+    "SUBREGION": "SUBREGION",
+    "BORDERS_WITH": "BORDERS",
+    "AREA": "AREA",
+    "COUNTRY_NOT_VALID": "Cannot find that country"
+}
